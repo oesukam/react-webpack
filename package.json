@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Olivier Esuka <olivier.esuka@andela.com> (https://oesukam.me)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
 }
