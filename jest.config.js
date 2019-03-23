@@ -1,0 +1,7 @@
+module.exports = {
+  clearMocks: true,
+  coverageDirectory: 'coverage',
+  testEnvironment: 'node',
+  testMatch: ['**/__tests__/**/*.js?(x)', '**/?(*.)+(spec|test).js?(x)'],
+  testPathIgnorePatterns: ['/node_modules/'],
+};
